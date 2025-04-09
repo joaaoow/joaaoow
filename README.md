@@ -5,7 +5,7 @@
  ## 📌Sobre mim:
  - 🎓Formação: Analise e Desenvolvimento de Sistemas
  - 💼Atualmente: Focado em POO, LLMs, Machine Learning e Banco de dados
- - 🛠️Habilidades: Java, JavaScript, Python, HTMLT e CSS
+ - 🛠️Habilidades: Java, JavaScript, Python, HTML e CSS
  - 🌎Idiomas: Português(Nativo), Inglês(Intermediário)
 
  ## 💻Tecnologias e Ferramentas:
