@@ -1,6 +1,6 @@
 ### Olá me chamo João Pedro!😁
  
-**AI Engineer** focado em **GenAI, Sistemas Multiagente e RAG** — Google ADK · LLMs · Python · Azure & GCP
+**AI Engineer** focado em **GenAI, Sistemas Multiagents, Single Agent, Workflows, Evaluations** — Google ADK · LLMs · Python · Azure & GCP
 
  ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaaoow&show_icons=true&theme=tokyonight)
  
